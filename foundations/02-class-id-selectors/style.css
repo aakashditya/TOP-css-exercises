@@ -1,0 +1,20 @@
+p {
+     font-family: Verdana, "DejaVu Sans" , sans-serif;
+     background-color:lightpink;
+}
+
+#no2 {
+    color:blue;
+    background-color:white;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#aid {
+    font-size: 24px;
+    background-color:lightgreen;
+    font-weight: bold;
+}
